@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice" table="x_400065_sample_sample" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Option A</label>
+            <language>en</language>
+            <name>x_400065_sample_sample</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-08 04:41:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a15c12201b41401064a2ff37dc4bcb1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-08 04:41:15</sys_updated_on>
+            <value>option a</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Option B</label>
+            <language>en</language>
+            <name>x_400065_sample_sample</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-08 04:41:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e55c12201b41401064a2ff37dc4bcb1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-08 04:41:15</sys_updated_on>
+            <value>option b</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Option C</label>
+            <language>en</language>
+            <name>x_400065_sample_sample</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-08 04:41:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>655c12201b41401064a2ff37dc4bcb20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-08 04:41:15</sys_updated_on>
+            <value>option c</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice</element>
+            <name>x_400065_sample_sample</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-08 04:41:15</sys_created_on>
+            <sys_id>2d5c12201b41401064a2ff37dc4bcb1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice</sys_name>
+            <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+            <sys_update_name>sys_choice_x_400065_sample_sample_u_choice</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-08 04:41:15</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

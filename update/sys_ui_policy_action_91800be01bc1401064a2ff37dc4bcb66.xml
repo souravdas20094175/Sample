@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_choice</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-08 07:19:36</sys_created_on>
+        <sys_id>91800be01bc1401064a2ff37dc4bcb66</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>u_choice</sys_name>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_update_name>sys_ui_policy_action_91800be01bc1401064a2ff37dc4bcb66</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-08 07:28:30</sys_updated_on>
+        <table>x_400065_sample_sample</table>
+        <ui_policy display_value="Making Field Dependent_2">ce5047e01bc1401064a2ff37dc4bcb1e</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

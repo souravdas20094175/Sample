@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_400065_sample_sample">x_400065_sample_sample</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SAM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-29 09:10:07</sys_created_on>
+        <sys_id>37f0b5bddba333007f458632399619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAM</sys_name>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_update_name>sys_number_37f0b5bddba333007f458632399619da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-29 09:10:07</sys_updated_on>
+    </sys_number>
+</record_update>

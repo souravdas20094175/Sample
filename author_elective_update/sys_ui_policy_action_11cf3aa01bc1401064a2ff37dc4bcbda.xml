@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_choice</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-08 07:16:45</sys_created_on>
+        <sys_id>11cf3aa01bc1401064a2ff37dc4bcbda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice</sys_name>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_update_name>sys_ui_policy_action_11cf3aa01bc1401064a2ff37dc4bcbda</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-08 07:16:45</sys_updated_on>
+        <table>x_400065_sample_sample</table>
+        <ui_policy display_value="Making Field Dependent / Mandatory">ae0d32201bc1401064a2ff37dc4bcb09</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sample">fcf7ad7ddb2333007f4586323996195c</application>
+        <file_path/>
+        <instance_id>2879dc93db78734042b321c40596195b</instance_id>
+        <instance_name>dev81943</instance_name>
+        <name>sys_ui_policy_action_11cf3aa01bc1401064a2ff37dc4bcbda</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>u_choice</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-08 07:16:45</sys_created_on><sys_id>11cf3aa01bc1401064a2ff37dc4bcbda</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_choice</sys_name><sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package><sys_policy/><sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope><sys_update_name>sys_ui_policy_action_11cf3aa01bc1401064a2ff37dc4bcbda</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-08 07:16:45</sys_updated_on><table>x_400065_sample_sample</table><ui_policy display_value="Making Field Dependent / Mandatory">ae0d32201bc1401064a2ff37dc4bcb09</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1776214356</payload_hash>
+        <record_name>u_choice</record_name>
+        <reverted_from/>
+        <source>fcf7e5f5dba333007f45863239961995</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-08 07:16:45</sys_created_on>
+        <sys_id>93ef3aa01bc1401064a2ff37dc4bcbdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e49df5b730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-08 07:16:45</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>dbef3aa044c1401092ba38d10cc9c3de</update_guid>
+        <update_guid_history>dbef3aa044c1401092ba38d10cc9c3de:1776214356</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-08 07:18:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>6622e70ecf3046dca0772300ee4799a4</sys_id>
+        <sys_metadata>11cf3aa01bc1401064a2ff37dc4bcbda</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice</sys_name>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_parent display_value="Making Field Dependent_1">ae0d32201bc1401064a2ff37dc4bcb09</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_scope_delete display_value="">26030d0747c0485e9a7faabb28a239c4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_11cf3aa01bc1401064a2ff37dc4bcbda</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_11cf3aa01bc1401064a2ff37dc4bcbda">93ef3aa01bc1401064a2ff37dc4bcbdf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-08 07:18:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
