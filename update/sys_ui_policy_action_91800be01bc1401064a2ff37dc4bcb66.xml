@@ -17,7 +17,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-11-08 07:28:30</sys_updated_on>
         <table>x_400065_sample_sample</table>
-        <ui_policy display_value="Making Field Dependent_2">ce5047e01bc1401064a2ff37dc4bcb1e</ui_policy>
+        <ui_policy display_value="Making choice Field Dependent_2">ce5047e01bc1401064a2ff37dc4bcb1e</ui_policy>
         <visible>true</visible>
     </sys_ui_policy_action>
 </record_update>

@@ -56,7 +56,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_choice</sys_name>
         <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
-        <sys_parent display_value="Making Field Dependent_1">ae0d32201bc1401064a2ff37dc4bcb09</sys_parent>
+        <sys_parent display_value="Making Choice Field Dependent_1">ae0d32201bc1401064a2ff37dc4bcb09</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
         <sys_scope_delete display_value="">26030d0747c0485e9a7faabb28a239c4</sys_scope_delete>
