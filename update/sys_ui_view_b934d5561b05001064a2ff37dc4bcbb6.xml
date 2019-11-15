@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>view_2</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 09:55:31</sys_created_on>
+        <sys_id>b934d5561b05001064a2ff37dc4bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>View 2</sys_name>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_update_name>sys_ui_view_b934d5561b05001064a2ff37dc4bcbb6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 09:55:31</sys_updated_on>
+        <title>View 2</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

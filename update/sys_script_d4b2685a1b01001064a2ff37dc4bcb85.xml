@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>true</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_400065_sample_sample</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message><![CDATA[<p style="text-align: left;"><span style="text-decoration: underline; font-size: 10pt;"><strong><span style="color: #ff9900; text-decoration: underline;">Business Rule Executes</span></strong></span></p>]]></message>
+        <name>Exp_Date_Valid</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+
+	var today = new GlideDate();
+	today.addDaysUTC(10);
+	
+	var expdate = new GlideDate();
+	expdate.setValue(current.u_date);
+	
+		if(expdate<today){
+		gs.addErrorMessage("There must be gap of more than 10 days from Today.");
+			current.setAbortAction(true);
+		}
+	
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 06:23:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4b2685a1b01001064a2ff37dc4bcb85</sys_id>
+        <sys_mod_count>39</sys_mod_count>
+        <sys_name>Exp_Date_Valid</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_update_name>sys_script_d4b2685a1b01001064a2ff37dc4bcb85</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 11:00:55</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=d4b2685a1b01001064a2ff37dc4bcb85"/>
+</record_update>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Sample" max_length="40" name="x_400065_sample_sample" type="collection">
+    <element attributes="hasLabels=true" label="Sample" max_length="40" name="x_400065_sample_sample" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
@@ -14,11 +14,15 @@
                 <element inactive_on_update="false" label="Option C" sequence="2" value="option c"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Expected Date" max_length="40" name="u_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Date/Time" max_length="40" name="u_date_time" type="calendar_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="u_description" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="Type Description Here" label="Full Description" max_length="500" name="u_full_description" type="string"/>
         <element attributes="encode_utf8=false" label="Manager" max_length="32" name="u_manager" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Put Manually" max_length="40" name="u_manually" type="string"/>
+        <element label="Mobile Number" mandatory="true" max_length="15" name="u_mobile" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Mobile Number" mandatory="true" max_length="40" name="u_mobile_num" type="string"/>
+        <element label="Mobile Number" mandatory="true" max_length="40" name="u_mobile_number" type="integer"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Which Type" mandatory="true" max_length="40" name="u_which_type" type="string">
             <choice>
                 <element inactive_on_update="false" label="Choose Option" sequence="0" value="option"/>

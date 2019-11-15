@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="71" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="View 1" max_length="40" name="x_400065_sample_view_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="View 2" max_length="40" name="x_400065_sample_view_2" type="string"/>
+    </element>
+</database>
