@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-15 09:53:45</sys_created_on>
-            <sys_id>27f6677e1bc1001064a2ff37dc4bcbcb</sys_id>
+            <sys_created_on>2019-11-20 10:03:38</sys_created_on>
+            <sys_id>0d3955e41bd5401064a2ff37dc4bcba6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_400065_sample_sample" sys_domain="global" view="Default view">51a96579dba333007f4586323996191e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-15 09:53:45</sys_updated_on>
+            <sys_updated_on>2019-11-20 10:03:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,55 +18,55 @@
             <element>name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-15 09:53:45</sys_created_on>
-            <sys_id>abf6677e1bc1001064a2ff37dc4bcbcb</sys_id>
+            <sys_created_on>2019-11-20 10:03:38</sys_created_on>
+            <sys_id>8d3955e41bd5401064a2ff37dc4bcba6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_400065_sample_sample" sys_domain="global" view="Default view">51a96579dba333007f4586323996191e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-15 09:53:45</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_description</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-15 09:53:45</sys_created_on>
-            <sys_id>2ff6677e1bc1001064a2ff37dc4bcbcb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_400065_sample_sample" sys_domain="global" view="Default view">51a96579dba333007f4586323996191e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-15 09:53:45</sys_updated_on>
+            <sys_updated_on>2019-11-20 10:03:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_date</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-15 09:53:45</sys_created_on>
-            <sys_id>aff6677e1bc1001064a2ff37dc4bcbcb</sys_id>
+            <sys_created_on>2019-11-20 10:03:38</sys_created_on>
+            <sys_id>013955e41bd5401064a2ff37dc4bcba7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_400065_sample_sample" sys_domain="global" view="Default view">51a96579dba333007f4586323996191e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-15 09:53:45</sys_updated_on>
+            <sys_updated_on>2019-11-20 10:03:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_mobile_num</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-15 09:53:45</sys_created_on>
-            <sys_id>23f6677e1bc1001064a2ff37dc4bcbcc</sys_id>
+            <sys_created_on>2019-11-20 10:03:38</sys_created_on>
+            <sys_id>813955e41bd5401064a2ff37dc4bcba7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_400065_sample_sample" sys_domain="global" view="Default view">51a96579dba333007f4586323996191e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-15 09:53:45</sys_updated_on>
+            <sys_updated_on>2019-11-20 10:03:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_item_type</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-20 10:03:38</sys_created_on>
+            <sys_id>053955e41bd5401064a2ff37dc4bcba7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_400065_sample_sample" sys_domain="global" view="Default view">51a96579dba333007f4586323996191e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-20 10:03:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-15 09:53:45</sys_created_on>
-            <sys_id>a3f6677e1bc1001064a2ff37dc4bcbcc</sys_id>
+            <sys_created_on>2019-11-20 10:03:38</sys_created_on>
+            <sys_id>853955e41bd5401064a2ff37dc4bcba7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_400065_sample_sample" sys_domain="global" view="Default view">51a96579dba333007f4586323996191e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-15 09:53:45</sys_updated_on>
+            <sys_updated_on>2019-11-20 10:03:38</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>u_manager</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-15 09:53:45</sys_created_on>
-            <sys_id>27f6677e1bc1001064a2ff37dc4bcbcc</sys_id>
+            <sys_created_on>2019-11-20 10:03:38</sys_created_on>
+            <sys_id>093955e41bd5401064a2ff37dc4bcba7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_400065_sample_sample" sys_domain="global" view="Default view">51a96579dba333007f4586323996191e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-15 09:53:45</sys_updated_on>
+            <sys_updated_on>2019-11-20 10:03:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>u_checkbox</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-15 09:53:45</sys_created_on>
-            <sys_id>a7f6677e1bc1001064a2ff37dc4bcbcc</sys_id>
+            <sys_created_on>2019-11-20 10:03:38</sys_created_on>
+            <sys_id>893955e41bd5401064a2ff37dc4bcba7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_400065_sample_sample" sys_domain="global" view="Default view">51a96579dba333007f4586323996191e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-15 09:53:45</sys_updated_on>
+            <sys_updated_on>2019-11-20 10:03:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>u_which_type</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-15 09:53:45</sys_created_on>
-            <sys_id>2bf6677e1bc1001064a2ff37dc4bcbcc</sys_id>
+            <sys_created_on>2019-11-20 10:03:38</sys_created_on>
+            <sys_id>0d3955e41bd5401064a2ff37dc4bcba7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_400065_sample_sample" sys_domain="global" view="Default view">51a96579dba333007f4586323996191e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-15 09:53:45</sys_updated_on>
+            <sys_updated_on>2019-11-20 10:03:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>u_manually</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-15 09:53:45</sys_created_on>
-            <sys_id>abf6677e1bc1001064a2ff37dc4bcbcc</sys_id>
+            <sys_created_on>2019-11-20 10:03:38</sys_created_on>
+            <sys_id>8d3955e41bd5401064a2ff37dc4bcba7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_400065_sample_sample" sys_domain="global" view="Default view">51a96579dba333007f4586323996191e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-15 09:53:45</sys_updated_on>
+            <sys_updated_on>2019-11-20 10:03:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>u_choice</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-15 09:53:45</sys_created_on>
-            <sys_id>2ff6677e1bc1001064a2ff37dc4bcbcc</sys_id>
+            <sys_created_on>2019-11-20 10:03:38</sys_created_on>
+            <sys_id>013955e41bd5401064a2ff37dc4bcba8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_400065_sample_sample" sys_domain="global" view="Default view">51a96579dba333007f4586323996191e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-15 09:53:45</sys_updated_on>
+            <sys_updated_on>2019-11-20 10:03:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

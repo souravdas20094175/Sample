@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>name</element>
+        <name>x_400065_sample_sample</name>
+        <style>background-color:lightblue;&#13;
+font-style:italic;&#13;
+font-weight:bold;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-20 07:22:57</sys_created_on>
+        <sys_id>4a1430241b55401064a2ff37dc4bcb89</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_400065_sample_sample</sys_name>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_update_name>sys_ui_style_4a1430241b55401064a2ff37dc4bcb89</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-20 07:25:13</sys_updated_on>
+        <value/>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=4a1430241b55401064a2ff37dc4bcb89"/>
+</record_update>

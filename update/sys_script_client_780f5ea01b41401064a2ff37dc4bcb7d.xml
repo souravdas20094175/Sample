@@ -12,7 +12,7 @@
         <order/>
         <script><![CDATA[function onLoad() {
    //Type appropriate comment here, and begin script below
-   alert("We are loading Your Form");
+   confirm("We are loading Your Form");
 	g_form.setValue('u_description', 'Replace this with appropriate description');
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -21,7 +21,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>780f5ea01b41401064a2ff37dc4bcb7d</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>onLoad_1</sys_name>
         <sys_overrides/>
         <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
@@ -29,7 +29,7 @@
         <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
         <sys_update_name>sys_script_client_780f5ea01b41401064a2ff37dc4bcb7d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-08 06:47:42</sys_updated_on>
+        <sys_updated_on>2019-11-20 07:26:03</sys_updated_on>
         <table>x_400065_sample_sample</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Sample">cf696179dba333007f458632399619bf</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Horiz Sep</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>250</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 06:16:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8a3bd3c41b51001064a2ff37dc4bcb54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Horiz Sep</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_update_name>sys_app_module_8a3bd3c41b51001064a2ff37dc4bcb54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 06:16:13</sys_updated_on>
+        <timeline_page/>
+        <title>Horiz Sep</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sample">fcf7ad7ddb2333007f4586323996195c</application>
+        <file_path/>
+        <instance_id>2879dc93db78734042b321c40596195b</instance_id>
+        <instance_name>dev81943</instance_name>
+        <name>sys_app_module_8a3bd3c41b51001064a2ff37dc4bcb54</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Sample">cf696179dba333007f458632399619bf</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Horiz Sep</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>250</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-19 06:16:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8a3bd3c41b51001064a2ff37dc4bcb54</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Horiz Sep</sys_name><sys_overrides/><sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package><sys_policy/><sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope><sys_update_name>sys_app_module_8a3bd3c41b51001064a2ff37dc4bcb54</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-19 06:16:13</sys_updated_on><timeline_page/><title>Horiz Sep</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>909742822</payload_hash>
+        <record_name>Horiz Sep</record_name>
+        <reverted_from/>
+        <source>fcf7e5f5dba333007f45863239961995</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 06:16:13</sys_created_on>
+        <sys_id>bb8b17c41b51001064a2ff37dc4bcbc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e824de62c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 06:16:13</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b38b17c458510010c361ea9a97e8abc4</update_guid>
+        <update_guid_history>b38b17c458510010c361ea9a97e8abc4:909742822</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Horiz Sep">e2fb97c41b51001064a2ff37dc4bcb93</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 06:18:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>05598dffa75d47508319b0c84d3ad310</sys_id>
+        <sys_metadata>8a3bd3c41b51001064a2ff37dc4bcb54</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Horiz Sep</sys_name>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_scope_delete display_value="">26030d0747c0485e9a7faabb28a239c4</sys_scope_delete>
+        <sys_update_name>sys_app_module_8a3bd3c41b51001064a2ff37dc4bcb54</sys_update_name>
+        <sys_update_version display_value="sys_app_module_8a3bd3c41b51001064a2ff37dc4bcb54">bb8b17c41b51001064a2ff37dc4bcbc4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 06:18:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

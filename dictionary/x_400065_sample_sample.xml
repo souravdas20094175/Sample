@@ -17,8 +17,15 @@
         <element attributes="edge_encryption_enabled=true" label="Expected Date" max_length="40" name="u_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Date/Time" max_length="40" name="u_date_time" type="calendar_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="u_description" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="Type Description Here" label="Full Description" max_length="500" name="u_full_description" type="string"/>
-        <element attributes="encode_utf8=false" label="Manager" max_length="32" name="u_manager" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="Type Description Here" hint="Enter Full Description Here" label="Full Description" max_length="500" name="u_full_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="cmdb_ci_computer" label="Item Type" max_length="40" name="u_item_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Laptop" sequence="0" value="cmdb_ci_computer"/>
+                <element inactive_on_update="false" label="Mobile" sequence="1" value="cmdb_ci_mobile_device"/>
+                <element inactive_on_update="false" label="Projector" sequence="2" value="cmdb_ci_projector"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Requested For" max_length="32" name="u_manager" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Put Manually" max_length="40" name="u_manually" type="string"/>
         <element label="Mobile Number" mandatory="true" max_length="15" name="u_mobile" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" label="Mobile Number" mandatory="true" max_length="40" name="u_mobile_num" type="string"/>
