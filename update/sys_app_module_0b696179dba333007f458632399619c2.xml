@@ -14,7 +14,7 @@
         <mobile_title>Samples</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_400065_sample_sample</name>
-        <order/>
+        <order>300</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -25,7 +25,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0b696179dba333007f458632399619c2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Samples</sys_name>
         <sys_overrides/>
         <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
         <sys_update_name>sys_app_module_0b696179dba333007f458632399619c2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-29 08:37:02</sys_updated_on>
+        <sys_updated_on>2019-11-22 06:01:34</sys_updated_on>
         <timeline_page/>
         <title>Samples</title>
         <uncancelable>false</uncancelable>

@@ -11,31 +11,31 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>All Records</mobile_title>
+        <mobile_title>Test</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_400065_sample_sample</name>
-        <order>300</order>
+        <order>250</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_400065_sample.sample_admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-11-08 04:46:29</sys_created_on>
+        <sys_created_on>2019-11-22 05:54:39</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>365d52201b41401064a2ff37dc4bcb1e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>All Records</sys_name>
+        <sys_id>7133fac11b51001064a2ff37dc4bcbd0</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Show All Records</sys_name>
         <sys_overrides/>
         <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
-        <sys_update_name>sys_app_module_365d52201b41401064a2ff37dc4bcb1e</sys_update_name>
+        <sys_update_name>sys_app_module_7133fac11b51001064a2ff37dc4bcbd0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-08 04:46:29</sys_updated_on>
+        <sys_updated_on>2019-11-22 06:09:26</sys_updated_on>
         <timeline_page/>
-        <title>All Records</title>
+        <title>Show All Records</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
