@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="x_400065_sample.sample_user" name="x_400065_sample.sample_user">726965f5dba333007f458632399619c8</contains>
+        <role display_value="x_400065_sample.sample_admin" name="x_400065_sample.sample_admin">5b1d2a4d1b11001064a2ff37dc4bcb26</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 05:57:01</sys_created_on>
+        <sys_id>19e3fa051b51001064a2ff37dc4bcb48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_400065_sample.sample_user.x_400065_sample.sample_admin</sys_name>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_update_name>sys_user_role_contains_19e3fa051b51001064a2ff37dc4bcb48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 05:57:01</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sample">fcf7ad7ddb2333007f4586323996195c</application>
+        <file_path/>
+        <instance_id>2879dc93db78734042b321c40596195b</instance_id>
+        <instance_name>dev81943</instance_name>
+        <name>sys_user_role_contains_19e3fa051b51001064a2ff37dc4bcb48</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="x_400065_sample.sample_user" name="x_400065_sample.sample_user">726965f5dba333007f458632399619c8</contains><role display_value="x_400065_sample.sample_admin" name="x_400065_sample.sample_admin">5b1d2a4d1b11001064a2ff37dc4bcb26</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-22 05:57:01</sys_created_on><sys_id>19e3fa051b51001064a2ff37dc4bcb48</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_400065_sample.sample_user.x_400065_sample.sample_admin</sys_name><sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package><sys_policy/><sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope><sys_update_name>sys_user_role_contains_19e3fa051b51001064a2ff37dc4bcb48</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-22 05:57:01</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>-600283839</payload_hash>
+        <record_name>x_400065_sample.sample_user.x_400065_sample.sample_admin</record_name>
+        <reverted_from/>
+        <source>fcf7e5f5dba333007f45863239961995</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 05:57:01</sys_created_on>
+        <sys_id>80f3fac11b51001064a2ff37dc4bcb27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e91af67580000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 05:57:01</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>c8f3fac18c510010ea7e540f65536b26</update_guid>
+        <update_guid_history>c8f3fac18c510010ea7e540f65536b26:-600283839</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 05:40:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>90a68cbee2bc4718bf1d530099e3de90</sys_id>
+        <sys_metadata>19e3fa051b51001064a2ff37dc4bcb48</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_400065_sample.sample_user.x_400065_sample.sample_admin</sys_name>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_scope_delete display_value="">26030d0747c0485e9a7faabb28a239c4</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_19e3fa051b51001064a2ff37dc4bcb48</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_19e3fa051b51001064a2ff37dc4bcb48">80f3fac11b51001064a2ff37dc4bcb27</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 05:40:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

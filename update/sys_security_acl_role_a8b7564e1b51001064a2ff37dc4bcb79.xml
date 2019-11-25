@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 06:27:33</sys_created_on>
+        <sys_id>a8b7564e1b51001064a2ff37dc4bcb79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_400065_sample_sample.u_description.snc_internal</sys_name>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_security_acl display_value="x_400065_sample_sample.u_description">6f77924e1b51001064a2ff37dc4bcb43</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a8b7564e1b51001064a2ff37dc4bcb79</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 06:27:33</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>98b71e0e1b51001064a2ff37dc4bcb6d</transaction_id>
+    </sys_security_acl_role>
+</record_update>

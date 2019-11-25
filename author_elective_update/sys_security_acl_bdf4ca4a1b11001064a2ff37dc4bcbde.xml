@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>Allow list_edit for u_description in x_400065_sample_sample, for users with role snc_internal, and if the ACL script returns true.</description>
+        <name>x_400065_sample_sample.u_description</name>
+        <operation display_value="list_edit">54f535270a0a0b8c007c67009ab2bdc0</operation>
+        <script><![CDATA[if(gs.hasRole("x_400065_sample.sample_user") && gs.hasRole("x_400065_sample.sample_admin"))
+	{
+		answer=true;
+	}
+else
+ answer=false;]]></script>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 05:13:34</sys_created_on>
+        <sys_id>bdf4ca4a1b11001064a2ff37dc4bcbde</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_400065_sample_sample.u_description</sys_name>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_update_name>sys_security_acl_bdf4ca4a1b11001064a2ff37dc4bcbde</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 06:11:22</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sample">fcf7ad7ddb2333007f4586323996195c</application>
+        <file_path/>
+        <instance_id>2879dc93db78734042b321c40596195b</instance_id>
+        <instance_name>dev81943</instance_name>
+        <name>sys_security_acl_bdf4ca4a1b11001064a2ff37dc4bcbde</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_security_acl"&gt;&lt;sys_security_acl action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;admin_overrides&gt;true&lt;/admin_overrides&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;condition/&gt;&lt;description&gt;Allow list_edit for u_description in x_400065_sample_sample, for users with role snc_internal, and if the ACL script returns true.&lt;/description&gt;&lt;name&gt;x_400065_sample_sample.u_description&lt;/name&gt;&lt;operation display_value="list_edit"&gt;54f535270a0a0b8c007c67009ab2bdc0&lt;/operation&gt;&lt;script&gt;&lt;![CDATA[if(gs.hasRole("x_400065_sample.sample_user") &amp;&amp; gs.hasRole("x_400065_sample.sample_admin"))
+	{
+		answer=true;
+	}
+else
+ answer=false;]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_security_acl&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-11-25 05:13:34&lt;/sys_created_on&gt;&lt;sys_id&gt;bdf4ca4a1b11001064a2ff37dc4bcbde&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_400065_sample_sample.u_description&lt;/sys_name&gt;&lt;sys_package display_value="Sample" source="x_400065_sample"&gt;fcf7ad7ddb2333007f4586323996195c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Sample"&gt;fcf7ad7ddb2333007f4586323996195c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_security_acl_bdf4ca4a1b11001064a2ff37dc4bcbde&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-11-25 06:11:22&lt;/sys_updated_on&gt;&lt;type display_value="record"&gt;record&lt;/type&gt;&lt;/sys_security_acl&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-441574117</payload_hash>
+        <record_name>x_400065_sample_sample.u_description</record_name>
+        <reverted_from/>
+        <source>8b54460a1b11001064a2ff37dc4bcbdf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 06:11:22</sys_created_on>
+        <sys_id>e3f3964a1b51001064a2ff37dc4bcbc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ea12f9e940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 06:11:22</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>6ff3964ac15100108b29ac740a0db1c1</update_guid>
+        <update_guid_history>6ff3964ac15100108b29ac740a0db1c1:-441574117,58df86426a510010b9a3547db62a0ec5:-1871970645,395a0e8e221100105cac528e611f68b7:-702479484,3cc686cace110010236691168c778b84:364328956</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 06:26:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>b0edfd5bfe8d48bc8b34c1592586d1c1</sys_id>
+        <sys_metadata>bdf4ca4a1b11001064a2ff37dc4bcbde</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_400065_sample_sample.u_description</sys_name>
+        <sys_package display_value="Sample" source="x_400065_sample">fcf7ad7ddb2333007f4586323996195c</sys_package>
+        <sys_parent display_value="Description">5d5cdeec1b01401064a2ff37dc4bcbfb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Sample">fcf7ad7ddb2333007f4586323996195c</sys_scope>
+        <sys_scope_delete display_value="">26030d0747c0485e9a7faabb28a239c4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_bdf4ca4a1b11001064a2ff37dc4bcbde</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_bdf4ca4a1b11001064a2ff37dc4bcbde">e3f3964a1b51001064a2ff37dc4bcbc2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 06:26:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
